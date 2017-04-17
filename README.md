@@ -285,9 +285,9 @@ transform-origin: 95% 95%;-moz-transform-origin: 95% 95%;-ms-transform-origin: 9
     </div>
     <div class="nav66">
   <div class="nav77"><img src="images/13.jpg"></div>
-&nbsp&nbsp&nbsp&nbsp公司注册于2005年，初始注册资金50万元，坐落在山清水秀的沂蒙老区******经济开发区壮岗镇演马村，是一家集基地种植科研检测产品加工，营销茶文化研究等为一体的综合性茶叶公司。公司在2010年12月份将公司更名为***沁园春茶业有限公司，注册资金为500万元，公司占地面积7100多平方米，员工166名，其中本科毕业的有10名，大专毕业的有30名。
+&nbsp&nbsp&nbsp&nbsp公司注册于2005年，初始注册资金50万元
 <br /><br />
-  &nbsp&nbsp&nbsp&nbsp公司自2005年成立以来，在管理上不断地改进，在生产技术上不断的创新，严格把守质量，逐步把公司做大。我公司在成立之后，被评为中国绿色协会员单位省茶文化优秀企业***市十大名优茶加工企业***市重点农业产业化龙头企业。2公司可长年培训茶叶种植、栽培、管理、茶艺培训等方面的学员，每期可容纳40多人学习与食宿，每年可安排20-30位学员就业。2011年8月全市的农业现场会在我公司召开***市长带队。2011年9月28日全市的茶叶越冬防护与茶叶深加工会议在我公司成功召开。
+  &nbsp&nbsp&nbsp&nbsp
 
 
 </div>
@@ -304,16 +304,15 @@ transform-origin: 95% 95%;-moz-transform-origin: 95% 95%;-ms-transform-origin: 9
 <p style="font-size:18px"  ><h2 align="center">公司新闻中心</h2>      </p>
   <div class="nav55">
     <ul class="opp55 ooo">
-      <li><a href="">首届茶叶毛尖大会
-        将于9月25日在义乌隆重召开</a></li>
+      <li><a href=""></a></li>
       <br /><br />
-      <li><a href="">不同季节产的茶应如何鉴别？</a></li>
+      <li><a href="">？</a></li>
 
-      <li><a href="">江西浮梁实施“一县一特”助推茶业产业</a></li>
+      <li><a href="">产业</a></li>
      <br /><br />
-      <li><a href="">第三届大连茶博会9月2日开幕 对市民免费开放</a></li>
+      <li><a href="">放</a></li>
       <br /><br />
-      <li><a href="">光解溶降技术助贵州茶达到欧盟标准</a></li>
+      <li><a href="">标准</a></li>
     </ul>
   </div>
 
@@ -329,16 +328,16 @@ transform-origin: 95% 95%;-moz-transform-origin: 95% 95%;-ms-transform-origin: 9
 <!-- 这是滚动图片代码 -->
 
 <div class="dowebok">
-  <img src="images/1.jpg" alt="最佳前男友">
-  <img src="images/2.jpg" alt="花千骨">
-  <img src="images/3.jpg" alt="克拉恋人">
-  <img src="images/4.jpg" alt="神犬小七">
-  <img src="images/5.jpg" alt="秀才遇到兵">
-  <img src="images/6.jpg" alt="暗黑者2">
-  <img src="images/7.jpg" alt="二胎时代">
-  <img src="images/8.jpg" alt="鸳鸯佩">
-  <img src="images/9.jpg" alt="少年神探狄仁杰">
-  <img src="images/10.jpg" alt="华胥引">
+  <img src="images/1.jpg" alt="">
+  <img src="images/2.jpg" alt="">
+  <img src="images/3.jpg" alt="">
+  <img src="images/4.jpg" alt="">
+  <img src="images/5.jpg" alt="">
+  <img src="images/6.jpg" alt="">
+  <img src="images/7.jpg" alt="">
+  <img src="images/8.jpg" alt="">
+  <img src="images/9.jpg" alt="">
+  <img src="images/10.jpg" alt="">
 </div>
 
 <script src="js/jquery-1.8.3.min.js"></script>
@@ -353,8 +352,8 @@ jQuery(function($){   $(function(){
 
 
      </div>
-    <div class="opp0">版权所有：浙江五指山茶叶有限公司<br />地址：浙江金华吴江山区开发大道125号<br />
-      电话：0576-8547369 技术支持：海创科技有限公司
+    <div class="opp0">版权所有：浙江五指山茶叶有限公司<br />地址：浙江br />
+      电话：0576-8547369 技术支持：科技有限公司
 
 
     </div>
